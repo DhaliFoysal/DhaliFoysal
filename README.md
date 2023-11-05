@@ -29,4 +29,4 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► foysaldhali989@gmail.com
