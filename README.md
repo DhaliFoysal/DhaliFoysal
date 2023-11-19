@@ -18,7 +18,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Redux <br>
 ✅ MongonDB <br>
 ✅ MySql <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ HTML5 / CSS3 / SASS / Tailwind CSS <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhaliFoysal)](https://github.com/anuraghazra/github-readme-stats)
 
