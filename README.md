@@ -6,7 +6,8 @@
 🎤 Like to share my knowledge </p> 
 
 
-[GROUP](asset/group-photo-re-size.jpg)
+[<img src="asset/group-photo-re-size.jpg">]
+
 
 
 ## 🚀 About Me
