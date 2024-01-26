@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge </p> 
 
 
-![GROUP](asset/group-photo-re-size.jpg)
+[GROUP](asset/group-photo-re-size.jpg)
 
 
 ## 🚀 About Me
