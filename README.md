@@ -1,7 +1,7 @@
 # Hi, I'm Foysal Dhali 👋
 
 <p>
-👑 I am a Web Developer <br> 
+🦅 I am a Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
